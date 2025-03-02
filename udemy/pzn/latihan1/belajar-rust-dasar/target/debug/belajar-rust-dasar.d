@@ -1,0 +1,1 @@
+D:\Documents\materi-pembelajaran\rust\udemy\pzn\latihan1\belajar-rust-dasar\target\debug\belajar-rust-dasar.exe: D:\Documents\materi-pembelajaran\rust\udemy\pzn\latihan1\belajar-rust-dasar\src\main.rs
